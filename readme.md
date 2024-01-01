@@ -40,7 +40,7 @@ a single source file):
 Or, in case of two source files:
 ```
 > python3 -m txt2tmx -c en#ar C:\full-path\file_1.txt C:\full-path\file_2.txt 
-```_
+```
 
 If you already closed PowerShell, use Windows Explorer to find the folder that you created in Step 3 (or simply repeat Steps 3 to 5 if you can't find it). Open that folder in PowerShell Terminal. Then type in the following commands in the PowerShell window:
 ```
